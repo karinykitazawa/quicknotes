@@ -6,7 +6,6 @@ markdown
 
 **Descrição breve**: QuickNotes é uma aplicação Java que permite criar, gerenciar e categorizar anotações e lembretes usando SQLite como banco de dados.
 
-![Imagem ilustrativa do QuickNotes](caminho/para/imagem.png) *(Substitua pelo caminho de uma imagem ilustrativa, se tiver uma)*
 
 ## 🚀 Funcionalidades
 
